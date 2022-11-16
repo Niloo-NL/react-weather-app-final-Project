@@ -6,3 +6,9 @@
 .App footer {
   font-size: 11px;
 }
+
+.App h1 {
+  display: block;
+  margin: 0 auto;
+  padding: 20px;
+}
