@@ -7,7 +7,9 @@
 }
 
 .current-temp {
-  font-size: 60px;
+  font-size: 50px;
+  margin-left: 50px;
+  font-weight: 500;
 }
 
 .weather ul {
@@ -37,4 +39,13 @@
   position: relative;
   top: -32px;
   margin-left: 3px;
+}
+
+.weather .description {
+  margin-bottom: 10px;
+}
+
+.weather .icon {
+  margin-top: 5px;
+  margin-left: 20px;
 }
