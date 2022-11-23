@@ -24,7 +24,7 @@
 }
 
 .weather h1 {
-  margin: 0px 10px;
+  margin: 0px 10px 15px;
   padding: 0px 10px;
   font-size: 50px;
 }
@@ -47,7 +47,7 @@
 
 .weather .icon {
   margin-top: 5px;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .weather a {
