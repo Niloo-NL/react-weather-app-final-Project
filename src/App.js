@@ -10,11 +10,11 @@ export default function App() {
         <Weather defaultCity="berlin" />
         <footer>
           This project was coded by{" "}
-          <a href="" target="_blank">
+          <a href="/" target="_blank">
             Niloofar Navaiee
           </a>{" "}
           and is an open-source on{" "}
-          <a href="" target="_blank">
+          <a href="/" target="_blank">
             Github
           </a>
         </footer>
