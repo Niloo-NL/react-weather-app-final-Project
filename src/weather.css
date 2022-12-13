@@ -4,6 +4,7 @@
   padding: 16px;
   margin-top: 40px;
   margin-bottom: 5px;
+  color: #293639;
 }
 
 .current-temp {
@@ -42,7 +43,6 @@
   padding: 0px 10px;
   font-size: 70px;
   padding: 20px;
-
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
@@ -56,6 +56,7 @@
   position: relative;
   top: -32px;
   margin-left: 3px;
+  color: #293639;
 }
 
 .weather .description {
@@ -71,7 +72,7 @@
 
 .weather a {
   text-decoration: none;
-  color: black;
+  color: #293639;
 }
 
 .weather .search {

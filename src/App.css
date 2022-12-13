@@ -21,8 +21,8 @@
 
 .App .container {
   background-image: linear-gradient(
-      rgba(203, 192, 192, 0.6),
-      rgba(207, 180, 180, 0.3)
+      rgba(224, 202, 202, 0.6),
+      rgba(213, 190, 190, 0.3)
     ),
     url("background3.jpg");
   background-repeat: no-repeat;

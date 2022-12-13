@@ -16,14 +16,14 @@
   border-radius: 3px;
   font-weight: 400;
 
-  background-color: #cec3c4;
+  background-color: #c6b9bb;
 }
 
 .weatherForecast-temp {
   border-radius: 3px;
   margin-top: 15px;
   font-weight: 400;
-  background-color: #cec3c4;
+  background-color: #c6b9bb;
   padding: 5px;
 }
 
@@ -35,7 +35,7 @@
   transition: all 350ms ease-in-out;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
 
-  background-color: #e1d5d6;
+  background-color: #dececc;
   border-radius: 5px;
   margin: 8px;
   margin-top: 10px;
