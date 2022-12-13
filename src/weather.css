@@ -9,12 +9,17 @@
 .current-temp {
   font-size: 50px;
   margin-left: 40px;
-  font-weight: 500;
+  font-weight: 600;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .weather ul {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 16px;
   margin: 0;
   padding: 0;
+  opacity: 0.9;
 }
 
 .weather .day-info {
@@ -23,7 +28,7 @@
 
 .weather li {
   list-style: none;
-  margin-left: 10px;
+  margin-left: 0px;
   padding-left: 10px;
 }
 
@@ -33,9 +38,12 @@
 }
 
 .weather h1 {
-  margin: 15px 20px 10px 35px;
+  margin: 7px 15px 0px 15px;
   padding: 0px 10px;
-  font-size: 50px;
+  font-size: 70px;
+  padding: 20px;
+
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .weather form {
@@ -73,4 +81,20 @@
 
 .weather .search-bar {
   padding-right: 0;
+  margin-left: 12px;
+}
+
+.weather .current-info {
+  padding-top: 20px;
+}
+
+.weather .btn {
+  background-color: #93797c;
+  border: 1px solid #93797c;
+  color: aliceblue;
+}
+
+.weather .btn:hover {
+  background-color: #b49599;
+  border: 1px solid #b49599;
 }
